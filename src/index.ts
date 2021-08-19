@@ -20,6 +20,7 @@ export default class CoinMarketCap {
         Accept: 'application/json',
         'Accept-Charset': 'utf-8',
         'Accept-Encoding': 'deflate, gzip',
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246',
       },
     });
 
